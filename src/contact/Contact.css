@@ -1,0 +1,15 @@
+.contact{
+    background: linear-gradient(135deg, rgba(67,206,162,1) 51%, rgba(24,90,157,1) 97%);
+    /* padding-top: 15rem !important; */
+}
+
+.contact-inner{
+    background-color: white;
+ 
+}
+
+.map{
+    border:2px solid black;
+min-width: 98%;
+height: 90%;
+}

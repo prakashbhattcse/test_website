@@ -1,0 +1,39 @@
+.about-us{
+    background-image: url('https://steerev.com/wp-content/uploads/2019/11/electric_car_range.jpg');
+   background-size: cover;
+   background-position: center;
+   
+   
+   object-fit: cover;
+    height: 90vh;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+.about-us-heading{
+    position: absolute;
+    width: 70vw !important;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 6.5vw;
+    border: 9px solid white ;
+    /* color: white; */
+    padding: 60px 130px;
+    font-weight: 700;
+white-space: nowrap;
+}
+/* .about-us-box1 img{
+    width: 30vw;
+    height: auto;
+} */
+
+.about-us-text{
+    font-size: 18px;
+    font-weight: 600;
+   
+    text-indent: 30px;
+    line-height: 30px;
+  
+}
